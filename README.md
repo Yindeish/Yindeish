@@ -11,7 +11,7 @@ Whenever I'm not coding, I'm reading or learning; I live it. I covet working wit
 *   ✉️  You can contact me at [Adeshinaadam03@gmail.com](mailto:Adeshinaadam03@gmail.com)
 *   🚀  I'm currently working on [tiktok-x](http://tik-tok-clonex.netlify.app)
 *   🧠  I'm learning Nuxt js and Next js
-*   🤝  I'm open to collaborating on Vue-based and react-based prjects
+*   🤝  I'm open to collaborating on Vue-based and react-based projects
 *   ⚡  I'm planning on migrating to fullstack web development.### Skills 
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
