@@ -1,17 +1,16 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Adeshina Adam
 =====================================================================================================================================
 
-Web developer and designer
+Fullstack web and mobile developer
 --------------------------
 
-Whenever I'm not coding, I'm reading or learning; I live it. I covet working with progressive and prospective teams to build sky-high applications. I love 'x'ing my projects in practice of immitating Space x. I dream working for it.
+I'm a full-stack web and mobile developer with 3 years of experience. I have worked with developing teams of different areas of expertise in the tech space. I'm open to full-stack, backend and frontend roles.
 
 * 🌍  I'm based in Lagos, Nigeria
-* 🖥️  See my portfolio at [my-portfolio-x](http://my-portfolio-x.netlify.app/)
+* 🖥️  See my portfolio at [https://yindeish-dev.vercel.app/)
 * ✉️  You can contact me at [Adeshinaadam03@gmail.com](mailto:Adeshinaadam03@gmail.com)
-* 🚀  I'm currently working on [tiktok-x](http://tik-tok-clonex.netlify.app)
-* 🧠  I'm learning Nuxt js and Next js
-* 🤝  I'm open to collaborating on Vue-based and react-based prjects
+* 🧠  I'm learning Flutter
+* 🤝  I'm open to collaborating on full-stack web and mobile prjects
 * ⚡  I'm planning on migrating to fullstack web development.
 
 ### Skills
@@ -51,8 +50,5 @@ Whenever I'm not coding, I'm reading or learning; I live it. I covet working wit
 
 <b>Top Repositories</b>
 
-<div width="100%" align="center"><a href="https://github.com/Yindeish/HasuqTek-x" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Yindeish&repo=HasuqTek-x&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+<div width="100%" align="center"><a href="https://github.com/Yindeish/chatup" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Yindeish&repo=HasuqTek-x&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
 
-### Support Me
-
-<a href="https://www.buymeacoffee.com/Yindeish"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
