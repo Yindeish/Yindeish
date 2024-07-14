@@ -9,9 +9,8 @@ I'm a full-stack web and mobile developer with 3 years of experience. I have wor
 * 🌍  I'm based in Lagos, Nigeria
 * 🖥️  See my portfolio at [https://yindeish-dev.vercel.app/)
 * ✉️  You can contact me at [Adeshinaadam03@gmail.com](mailto:Adeshinaadam03@gmail.com)
-* 🧠  I'm learning Flutter
+* 🧠  I'm exploring Blockchain
 * 🤝  I'm open to collaborating on full-stack web and mobile prjects
-* ⚡  I'm planning on migrating to fullstack web development.
 
 ### Skills
 
