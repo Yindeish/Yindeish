@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Fullstack web and mobile developer
 --------------------------
 
-I'm a full-stack web and mobile developer with 3 years of experience. I have worked with developing teams of different areas of expertise in the tech space. I'm open to full-stack, backend and frontend roles.
+I'm a full-stack web and mobile developer. I have worked with developing teams of different areas of expertise in the tech space. I'm open to full-stack, backend and frontend roles.
 
 * 🌍  I'm based in Lagos, Nigeria
 * 🖥️  See my portfolio at [https://yindeish-dev.vercel.app/)
