@@ -7,7 +7,7 @@ Fullstack web and mobile developer
 I'm a full-stack web and mobile developer. I have worked with developing teams of different areas of expertise in the tech space. I'm open to full-stack, backend and frontend roles.
 
 * 🌍  I'm based in Lagos, Nigeria
-* 🖥️  See my portfolio at [https://yindeish-dev.vercel.app/)
+* 🖥️  See my portfolio at [https://yindeish.vercel.app/)
 * ✉️  You can contact me at [Adeshinaadam03@gmail.com](mailto:Adeshinaadam03@gmail.com)
 * 🧠  I'm exploring Blockchain
 * 🤝  I'm open to collaborating on full-stack web and mobile prjects
