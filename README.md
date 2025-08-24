@@ -59,9 +59,19 @@ I'm a passionate full-stack developer who loves building scalable web and mobile
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
-### **Currently Exploring**
-![Blockchain](https://img.shields.io/badge/Blockchain-121D33?style=for-the-badge&logo=blockchain-dot-com&logoColor=white)
+### **Smart Contracts & Blockchain Development**
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
+![Hardhat](https://img.shields.io/badge/Hardhat-F9D72C?style=for-the-badge&logo=hardhat&logoColor=black)
+![Foundry](https://img.shields.io/badge/Foundry-000000?style=for-the-badge&logo=foundry&logoColor=white)
+![Ethers.js](https://img.shields.io/badge/Ethers.js-2536C8?style=for-the-badge&logo=ethers&logoColor=white)
+![Web3.js](https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white)
+![Wagmi](https://img.shields.io/badge/Wagmi-FF6F61?style=for-the-badge&logo=wagmi&logoColor=white)
+![Thirdweb](https://img.shields.io/badge/Thirdweb-000000?style=for-the-badge&logo=thirdweb&logoColor=white)
+![Alchemy](https://img.shields.io/badge/Alchemy-0C0C0C?style=for-the-badge&logo=alchemy&logoColor=blue)
+![Reown (Cloud Wallet)](https://img.shields.io/badge/Reown%20Cloud%20Wallet-4E44CE?style=for-the-badge&logo=walletconnect&logoColor=white)
 ![SUI](https://img.shields.io/badge/SUI-4DA2FF?style=for-the-badge&logo=sui&logoColor=white)
+![Solana](https://img.shields.io/badge/Solana-9945FF?style=for-the-badge&logo=solana&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 
 ---
 
