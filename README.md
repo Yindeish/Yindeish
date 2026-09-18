@@ -11,7 +11,7 @@
   <p align="center">
     📍 <b>Lagos, Nigeria</b> &nbsp;•&nbsp;
     💼 <b>Available for High-Impact Roles & Consulting</b> &nbsp;•&nbsp;
-    🌐 <a href="https://portfolio-beryl-rho-gfci6ll9s7.vercel.app/"><b>Live Portfolio ↗</b></a>
+    🌐 <a href="https://yindeishx.vercel.app/"><b>Live Portfolio ↗</b></a>
   </p>
 
   <!-- Quick Action Connectors -->
@@ -31,7 +31,6 @@
 Senior Full-Stack & Mobile Engineer with **5+ years of experience** architecting high-throughput consumer web apps, distributed cross-platform mobile clients, and decentralized systems. Known for bridging performant backend services with seamless UI/UX and non-custodial Web3 integrations across EVM, Solana, and Move (SUI).
 
 * 🔭 **Core Focus:** High-concurrency Web/Mobile platforms, zero-latency state sync, and on-chain protocol integrations.
-* 🛠️ **Active Builds:** [meerath](https://portfolio-beryl-rho-gfci6ll9s7.vercel.app/), [CoinStick](https://portfolio-beryl-rho-gfci6ll9s7.vercel.app/), [DanfoHQ](https://portfolio-beryl-rho-gfci6ll9s7.vercel.app/), [INBRANDpr](https://portfolio-beryl-rho-gfci6ll9s7.vercel.app/), [Tfare](https://portfolio-beryl-rho-gfci6ll9s7.vercel.app/).
 * 🎓 **Background:** Computer Science @ Yaba College of Technology.
 * 💬 **Ask me about:** Cross-platform React Native performance, Next.js App Router optimization, Sui Move vs EVM contract patterns.
 
