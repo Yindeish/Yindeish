@@ -89,7 +89,7 @@ Senior Full-Stack & Mobile Engineer with **5+ years of experience** architecting
 
 <div align="center">
 
-  <sub>Designed with precision by <a href="https://portfolio-beryl-rho-gfci6ll9s7.vercel.app/">Adam Adeshina (Yindeish)</a> • Always shipping.</sub>
+  <sub>Designed with precision by <a href="https://yindeishx.vercel.app/">Adam Adeshina (Yindeish)</a> • Always shipping.</sub>
   <br><br>
 
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,11,20&height=100&section=footer" width="100%" alt="Footer" />
